@@ -1,5 +1,10 @@
 **<h1>Challenge de BI 3ª edição - <i>1ª Semana</i> - Alura</h1>**
 <br>
+<h2>Sobre o Challenge💻 </h2>
+
+<p>O challenge da Alura, é o momento em que você vai aplicar tudo que tem aprendido nos cursos de uma área específica aqui da plataforma. Eles procuram simular o dia a dia nas empresas e foram criados para atender a demanda de unir a teoria de nossos cursos com a prática do mercado de trabalho.
+Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina de trabalho. Esse projeto vai ser dividido em desafios com diferentes níveis de complexidade.</p>
+
 <h2>Analisando campanha de marketing👩‍💻 </h2>
 
 <p><i>Objetivo:</i> nesse projeto, fomos contratados pelo blog Bloco de Código para analisar as campanhas de marketing que fizeram para divulgar o blog. O blog conta com vários artigos para a área de tecnologia, como dados, marketing, experiência do usuário e vários outros assuntos.</p>
