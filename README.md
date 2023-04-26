@@ -1,51 +1,22 @@
-**<h1>Challenge de BI 3ª edição - 1ª Semana - Alura</h1>**
+**<h1>Challenge de BI 3ª edição - <i>1ª Semana</i> - Alura</h1>**
 <br>
-<h2>Analisando campanha de marketing</h2>
+<h2>Analisando campanha de marketing👩‍💻 </h2>
 
-<p>Nesse projeto, fomos contratados pelo blog Bloco de Código para analisar as campanhas de marketing que fizeram para divulgar o blog. O blog conta com vários artigos para a área de tecnologia, como dados, marketing, experiência do usuário e vários outros assuntos.</p>
+<p><i>Objetivo:</i> nesse projeto, fomos contratados pelo blog Bloco de Código para analisar as campanhas de marketing que fizeram para divulgar o blog. O blog conta com vários artigos para a área de tecnologia, como dados, marketing, experiência do usuário e vários outros assuntos.</p>
+
+<p>Nossa missão consiste em fornecer suporte à gerência em suas decisões e esclarecer quaisquer dúvidas. Para alcançar esse objetivo, criaremos um painel estratégico de marketing com o propósito de monitorar uma campanha de publicidade paga durante o ano de 2021. Este painel apresentará indicadores relevantes para a validação estratégica do negócio.</p>
 
 <div align="center">
 <img src="https://i.imgur.com/EHBYy9m.png" width="500px" />
 </div>
 
-<br>
-<h2>Base de Dados</h2>
-<p>A base de dados consiste em um arquivo .csv</p>
+<h1>Dashboards</h1>
 
 <ul>
-<li>Tabela Artigos
+<li>Looker Studio: https://lookerstudio.google.com/reporting/c423c1e0-a1fb-4b51-900d-d645f819f7d8
+<li>Power BI:
+<li>Qlik Sense: https://oqn2sqzxnbfggrs.us.qlikcloud.com/single/?appid=2c648af7-b544-4cb6-abda-20c2262c58d9&sheet=ec3ac9a3-bd4d-4a48-a81a-e5fa5ea85055&theme=horizon&opt=ctxmenu,currsel&identity=preview
+<li>Tableau: https://public.tableau.com/app/profile/maria.gabriela.oliva/viz/Blocodecdigo/Painel1?publish=yes
+<li>Excel: https://docs.google.com/spreadsheets/d/1YadhdcyzIOEJJ-xzjfhyDuqLFsr2ySP2/edit?usp=share_link&ouid=109711604644091722609&rtpof=true&sd=true
 </ul>
-
-<br>
-
-<h1>Ferramentas Utilizadas no Projeto</h1>
-
-
-<br>
-
-<h1>Tratamento dos Dados</h1>
-
-
-<br>
-
-<h1>Métricas</h1>
-<ul>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-<li>
-</ul>
-
-<br>
-
-<h1>Relacionamentos</h1>
-
-<p>Não tem relacionamentos de uma tabela com a outra</p>
-
-<br>
-
-<h1>Link do Dashboard</h1>
 
