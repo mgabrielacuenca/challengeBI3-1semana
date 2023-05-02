@@ -5,7 +5,7 @@
 
 Desejamos uma jornada incrível e inspiradora. Estamos torcendo por você!</p>
 
-<h2>Sobre o Challenge💻 </h2>
+<h2>Sobre o Challenge🤿💻 </h2>
 
 <p>O Challenge da Alura é o momento em que você vai aplicar tudo que tem aprendido nos cursos de uma área específica aqui da plataforma. Eles procuram simular o dia a dia nas empresas e foram criados para atender a demanda de unir a teoria de nossos cursos com a prática do mercado de trabalho.
 
