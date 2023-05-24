@@ -25,8 +25,12 @@ Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina
 
 <ul>
 <li>Looker Studio: https://lookerstudio.google.com/reporting/c423c1e0-a1fb-4b51-900d-d645f819f7d8
-<li>Power BI:
-<li>Qlik Sense: https://oqn2sqzxnbfggrs.us.qlikcloud.com/single/?appid=2c648af7-b544-4cb6-abda-20c2262c58d9&sheet=ec3ac9a3-bd4d-4a48-a81a-e5fa5ea85055&theme=horizon&opt=ctxmenu,currsel&identity=preview
+  
+<li>Power BI: https://app.powerbi.com/view?r=eyJrIjoiYzM1ODU4MWItY2UzNi00NTkzLWI3MjgtNTljNDE2NWNlYzJmIiwidCI6Ijk0NjZmMmYwLTI4ZmQtNDYxMi04MjhkLTQ0YzdlNzU4MDA3OCJ9
+
+ <li>Qlik Sense: https://oqn2sqzxnbfggrs.us.qlikcloud.com/single/?appid=2c648af7-b544-4cb6-abda-20c2262c58d9&sheet=ec3ac9a3-bd4d-4a48-a81a-e5fa5ea85055&theme=horizon&opt=ctxmenu,currsel&identity=preview
+
 <li>Tableau: https://public.tableau.com/app/profile/maria.gabriela.oliva/viz/Blocodecdigo/Painel1?publish=yes
+
 <li>Excel: https://docs.google.com/spreadsheets/d/1YadhdcyzIOEJJ-xzjfhyDuqLFsr2ySP2/edit?usp=share_link&ouid=109711604644091722609&rtpof=true&sd=true
 </ul>
