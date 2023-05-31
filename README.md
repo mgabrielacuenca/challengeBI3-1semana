@@ -18,7 +18,7 @@ Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina
 <p>Nossa missão consiste em fornecer suporte à gerência em suas decisões e esclarecer as dúvidas. Para alcançar esse objetivo, vamos criar um dashboard estratégico de marketing com o propósito de monitorar uma campanha de publicidade paga durante o ano de 2021. Este painel apresentará indicadores relevantes para a validação estratégica do negócio.</p>
 
 <div align="center">
-<img src="https://i.imgur.com/EHBYy9m.png" width="500px" />
+<img src="https://i.imgur.com/EHBYy9m.png#vitrinedev" width="500px" />
 </div>
 
 <h1>Dashboards</h1>
@@ -34,3 +34,4 @@ Então, durante 4 semanas vamos desenvolver um projeto que irá simular a rotina
 
 <li>Excel: https://docs.google.com/spreadsheets/d/1YadhdcyzIOEJJ-xzjfhyDuqLFsr2ySP2/edit?usp=share_link&ouid=109711604644091722609&rtpof=true&sd=true
 </ul>
+
